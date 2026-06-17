@@ -41,7 +41,7 @@ orders (1) ──< order_tags (many)    via order_id
 
 ### A. Kualitas Layanan
 
-![Rating and Review](assets/insight_rating_review.png)
+![Rating and Review](Assets/insight_rating_review.png)
 
 **A1 — Distribusi Rating**
 Mayoritas pelanggan memberi rating 5 (69 dari 90 order, atau 77%). Hanya 2 order yang memberi rating 1. Ini menunjukkan kepuasan pelanggan secara umum cukup tinggi.
@@ -49,7 +49,7 @@ Mayoritas pelanggan memberi rating 5 (69 dari 90 order, atau 77%). Hanya 2 order
 **A2 — Proporsi Review**
 82% pelanggan (74 dari 90 order) tidak menulis review meski memberi rating — pola umum di platform delivery di mana rating jauh lebih sering diisi dibanding teks review.
 
-![Tag Analysis](assets/insight_tag.png)
+![Tag Analysis](Assets/insight_tag.png)
 
 **A3 — Tag pada Rating Rendah**
 Pada order dengan rating ≤3, tag TASTE (rasa) paling sering dipilih, diikuti VALUE dan beberapa tag lain dengan frekuensi rendah (total hanya 9 kemunculan dari sedikit order bermasalah).
@@ -59,7 +59,7 @@ Secara keseluruhan, TASTE tetap menjadi tag paling sering dipilih (28 kali), dii
 
 ### B. Operasional Mikro
 
-![Time and Order Pattern](assets/insight_operational.png)
+![Time and Order Pattern](Assets/insight_operational.png)
 
 **B1 — Jam Order Paling Ramai**
 Jam 19:00 adalah waktu order tersibuk dengan 21 order, mengindikasikan jam makan malam sebagai peak hour utama restoran ini.
@@ -67,7 +67,7 @@ Jam 19:00 adalah waktu order tersibuk dengan 21 order, mengindikasikan jam makan
 **B2 — Pola Order Multi-Menu**
 52% pelanggan (47 dari 90 order) hanya memesan 1 menu per transaksi, 37% memesan 2 menu, dan sisanya memesan 3 menu atau lebih.
 
-![Menu Analysis](assets/insight_menu.png)
+![Menu Analysis](Assets/insight_menu.png)
 
 **B3 — Menu Paling Sering Dipesan**
 Nasi Goreng Ayam Bakso adalah menu terpopuler dengan 27 kali dipesan, diikuti Nasi Goreng Ati Ampela dan Nasi Goreng Special (masing-masing 17 kali).
