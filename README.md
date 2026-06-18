@@ -73,9 +73,7 @@ Jam 19:00 adalah waktu order tersibuk dengan 21 order, mengindikasikan jam makan
 Nasi Goreng Ayam Bakso adalah menu terpopuler dengan 27 kali dipesan, diikuti Nasi Goreng Ati Ampela dan Nasi Goreng Special (masing-masing 17 kali).
 
 **B4 — Menu pada Order Buruk vs Baik**
-[Isi setelah hasil akhir B4 dikonfirmasi]
-
----
+Nasi Goreng Ayam Bakso, selain menjadi menu terpopuler, juga paling banyak muncul di order rating tinggi (21 kali) dibanding order buruk (4 kali) — rasio yang sehat untuk menu andalan. Pola serupa terlihat di Nasi Goreng Ati Ampela (12 baik vs 2 buruk) dan Kwetiau Goreng/Kuah Ayam (9 baik vs 2 buruk). Secara keseluruhan, hampir semua menu lebih sering muncul di order baik dibanding order buruk, mengindikasikan tidak ada menu spesifik yang menjadi sumber utama keluhan pelanggan — masalah kualitas (seperti TASTE dan PORTION dari insight A) kemungkinan lebih terkait konsistensi penyajian dibanding pilihan menu tertentu.
 
 ## Struktur Folder
 
